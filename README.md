@@ -1,2 +1,2 @@
 # Perceptron-For-Word_Segmentation
-Perceptron For Word Segmentation including nonstructrual and structural perceptron
+Perceptron For Word Segmentation including nonstructrual and structrual perceptron
